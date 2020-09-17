@@ -9,4 +9,4 @@ The Theme is Available to Download on Marketplace
 
 #### Screenshot
 
-[](https://user-images.githubusercontent.com/29167110/93529777-57ad3f80-f8f1-11ea-9d1a-103c8bbc93ab.jpg)
+![](https://user-images.githubusercontent.com/29167110/93529777-57ad3f80-f8f1-11ea-9d1a-103c8bbc93ab.jpg)
