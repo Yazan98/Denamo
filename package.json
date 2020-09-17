@@ -1,0 +1,21 @@
+{
+    "name": "denamo",
+    "displayName": "Denamo",
+    "description": "Dark Theme To Build Better Apps With Special Theme (Dark Theme)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Denamo Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Denamo Theme-color-theme.json"
+            }
+        ]
+    }
+}
