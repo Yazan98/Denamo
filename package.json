@@ -1,7 +1,7 @@
 {
     "name": "denamo",
     "displayName": "Denamo",
-    "description": "Dark Theme To Build Better Apps With Special Theme (Dark Theme)",
+    "description": "Denamo is a Dark Theme Built To Give Developers a Nice Look when Create Their own applications With a Nice Dark Theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.49.0"
