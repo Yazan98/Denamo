@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "denamo"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Denamo Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+#### Description
+This Theme is a Dark Theme To Build Typescript Apps With This Blue Color Effect and Dark Theme to give the developer a nice environment to work
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+#### Download
+The Theme is Available to Download on Marketplace
+[Denamo Theme](https://marketplace.visualstudio.com/manage/publishers/yazantarifi/extensions/denamo/hub?_a=acquisition)
 
-**Enjoy!**
+#### Screenshot
+
+[](https://user-images.githubusercontent.com/29167110/93529777-57ad3f80-f8f1-11ea-9d1a-103c8bbc93ab.jpg)
