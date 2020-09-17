@@ -33,14 +33,14 @@
 		"name": "Built-in constant",
 		"scope": "constant.language",
 		"settings": {
-		  "foreground": "#F1B3F1"
+		  "foreground": "#0e639c"
 		}
 	  },
 	  {
 		"name": "User-defined constant",
 		"scope": ["constant.character", "constant.other"],
 		"settings": {
-		  "foreground": "#F1B3F1"
+		  "foreground": "#0e639c"
 		}
 	  },
 	  {
@@ -63,7 +63,7 @@
 		"scope": "storage",
 		"settings": {
 		  "fontStyle": "",
-		  "foreground": "#FF476E"
+		  "foreground": "#0e639c"
 		}
 	  },
 	  {
@@ -399,7 +399,7 @@
 		"name": "Variable Language",
 		"scope": ["variable.language"],
 		"settings": {
-		  "foreground": "#f1b3f1"
+		  "foreground": "#3622f0"
 		}
 	  },
 	  {
@@ -439,40 +439,53 @@
 	  }
 	],
 	"colors": {
-	  "editor.background": "#151515",
-	  "panel.background": "#151515",
-	  "editorCursor.foreground": "#EFF0F6",
-	  "editor.foreground": "#EFF0F6",
-	  "editorLineNumber.foreground": "#858DB7",
-	  "editor.lineHighlightBackground": "#1d1f30",
-	  "editorWhitespace.foreground": "#4F5987",
-	  "editor.selectionBackground": "#656FA4",
-	  "editorWidget.background": "#1d1f30",
-	  "editorWidget.border": "#858DB788",
-	  "sideBar.background": "#151515",
-	  "sideBar.foreground": "#EFF0F6",
-	  "sideBar.dropBackground": "#0e639c",
-	  "sideBarSectionHeader.background": "#0e639c",
-	  "input.background": "#0e639c",
-	  "list.activeSelectionBackground": "#0e639c",
-	  "sideBarSectionHeader.foreground": "#EFF0F6",
-	  "activityBar.background": "#151515",
-	  "activityBar.foreground": "#EFF0F6",
-	  "editorGroupHeader.tabsBackground": "#0e639c",
-	  "titleBar.activeForeground": "#EFF0F6",
-	  "titleBar.activeBackground": "#151515",
-	  "tab.inactiveBackground": "#3c4367",
-	  "statusBar.background": "#151515",
-	  "statusBar.foreground": "#EFF0F6",
-	  "statusBar.border": "#0e639c",
-	  "statusBar.debuggingBackground": "#a37ca9",
-	  "statusBar.debuggingBorder": "#f1b3f1",
-	  "statusBar.debuggingForeground": "#EFF0F6",
-	  "statusBar.noFolderBackground": "#151515",
-	  "statusBar.noFolderForeground": "#EFF0F6",
-	  "statusBarItem.prominentBackground": "#ffca7a",
-	  "statusBarItem.prominentHoverBackground": "#ffee7a",
-	  "list.hoverBackground": "#0e639c"
+		"foreground": "#ffffff",
+		"terminal.background": "#151515",
+		"terminal.foreground": "#0e639c",
+		"terminalCursor.foreground": "#ffffff",
+		"terminal.ansiWhite": "#ffffff",
+		"editor.background": "#151515",
+		"panel.background": "#151515",
+		"editorCursor.foreground": "#EFF0F6",
+		"editor.foreground": "#EFF0F6",
+		"editorLineNumber.foreground": "#858DB7",
+		"editor.lineHighlightBackground": "#1d1f30",
+		"editorWhitespace.foreground": "#4F5987",
+		"editor.selectionBackground": "#656FA4",
+		"editorWidget.background": "#1d1f30",
+		"editorWidget.border": "#858DB788",
+		"sideBar.background": "#151515",
+		"sideBar.foreground": "#EFF0F6",
+		"sideBar.dropBackground": "#0e639c",
+		"sideBarSectionHeader.background": "#0e639c",
+		"input.background": "#0e639c",
+		"list.activeSelectionBackground": "#0e639c",
+		"sideBarSectionHeader.foreground": "#EFF0F6",
+		"activityBar.background": "#151515",
+		"activityBar.foreground": "#EFF0F6",
+		"editorGroupHeader.tabsBackground": "#0e639c",
+		"titleBar.activeForeground": "#EFF0F6",
+		"titleBar.activeBackground": "#151515",
+		"tab.inactiveBackground": "#3c4367",
+		"statusBar.background": "#151515",
+		"statusBar.foreground": "#EFF0F6",
+		"statusBar.border": "#0e639c",
+		"statusBar.debuggingBackground": "#a37ca9",
+		"statusBar.debuggingBorder": "#f1b3f1",
+		"statusBar.debuggingForeground": "#EFF0F6",
+		"statusBar.noFolderBackground": "#151515",
+		"statusBar.noFolderForeground": "#EFF0F6",
+		"statusBarItem.prominentBackground": "#ffca7a",
+		"statusBarItem.prominentHoverBackground": "#0e639c",
+		"list.hoverBackground": "#0e639c",
+		"focusBorder": "#0e639c",
+		"selection.background": "#0e639c",
+		"textLink.foreground": "#0e639c",
+		"button.background": "#0e639c",
+		"button.foreground": "#ffffff",
+		"dropdown.background": "#0e639c",
+		"activityBar.activeBackground": "#0e639c",
+	    
 	},
 	"better-comments.tags": [
 	  {
