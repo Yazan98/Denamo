@@ -1,22 +1,48 @@
 {
-    "name": "denamo",
-    "displayName": "Denamo",
-    "description": "Denamo is a Dark Theme Built To Give Developers a Nice Look when Create Their own applications With a Nice Dark Theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.49.0"
-    },
-    "publisher": "YazanTarifi",
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Denamo Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Denamo Theme-color-theme.json"
-            }
-        ]
-    }
+	"name": "denamo",
+	"displayName": "Denamo Theme",
+	"description": "Denamo is a Dark Theme Built To Give Developers a Nice Look when Create Their own applications With a Nice Dark Theme",
+	"version": "0.0.2",
+	"preview": true,
+	"icon": "logo.png",
+	"engines": {
+		"vscode": "^1.49.0"
+	},
+	"publisher": "YazanTarifi",
+	"categories": [
+		"Themes"
+	],
+	"bugs": {
+		"url": "https://github.com/Yazan98/Denamo/issues"
+	},
+	"homepage": "https://github.com/Yazan98/Denamo",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Denamo Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Denamo Theme-color-theme.json"
+			}
+		]
+	},
+	"keywords": [
+		"theme",
+		"github",
+		"light",
+		"dark",
+		"dark theme",
+		"typescript theme",
+		"blue dark theme",
+		"dark theme",
+		"black theme"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Yazan98/Denamo.git"
+	},
+	"__metadata": {
+		"id": "20414415-6a46-4ef5-9d91-8c97bff40f01",
+		"publisherDisplayName": "Yazan Tarifi",
+		"publisherId": "bf5e00dc-b250-4fd9-8b0a-14717ff07aec"
+	}
 }
