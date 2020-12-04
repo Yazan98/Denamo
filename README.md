@@ -5,7 +5,7 @@ This Theme is a Dark Theme To Build Typescript Apps With This Blue Color Effect 
 
 #### Download
 The Theme is Available to Download on Marketplace
-[Denamo Theme](https://marketplace.visualstudio.com/manage/publishers/yazantarifi/extensions/denamo/hub?_a=acquisition)
+[Denamo Theme](https://marketplace.visualstudio.com/items?itemName=YazanTarifi.denamo)
 
 #### Screenshot
 
